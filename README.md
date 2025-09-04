@@ -2,7 +2,7 @@
 
 Test Repository to show Github workflow
 
-This is the test repository fir the class
+This is the test repository for the class
 
 
 | github | practice |
